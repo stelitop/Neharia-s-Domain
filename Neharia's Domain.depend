@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1511990995 source:c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\neharia's domain\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<fstream>
+	"loadstuff.h"
+
+1510482241 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\neharia's domain\models.h
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1511991010 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\neharia's domain\loadstuff.h
+

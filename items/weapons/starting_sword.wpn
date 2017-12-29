@@ -1,0 +1,10 @@
+<weapon>	
+	<name>Starting Sword</name>
+	<texture>textures/starting_sword.png</texture>
+	<rarity>none</rarity>
+	<not_purchasable/>
+	<not_craftable/>
+	<attributes>
+		<atk>1234</atk>
+	</attributes>
+</weapon>
